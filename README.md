@@ -1,4 +1,6 @@
 # code-snippets
+![Modern JavaScript Code Snippets](https://cranky-benz-6695d2.netlify.com/static/featured-1bcc34c6966e8a3fc11246d4c39daffa-6b3a1.jpg)
+
 Various code snippets for modern Javascript including computer science fundamentals, data structures, algorithms and exploration of modern JS language features.
 
 I've used modern ECMA syntax and a functional approach to all code in this repo. Many of these snippets are commonly found in tech interviews for front end engineers. There's LinkList and other Computer Science concepts found here as well for practice and study. 
