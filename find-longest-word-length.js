@@ -16,5 +16,5 @@ const findLongestWordLength = (str) => {
 }
 
 console.log(
-    findLongestWordLength("The quick brown fox jumped over the lazy dog");
+    findLongestWordLength("The quick brown fox jumped over the lazy dog")
 )
